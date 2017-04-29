@@ -4,7 +4,7 @@
 
 This is my Java code solution for "anagram solver".
 
-Job ad title at Trustpilot company:  **Code Challenge - Backend Developer**
+The algorithm is made by using "trie" structures and recursions.
 
 Advertisement:
 
