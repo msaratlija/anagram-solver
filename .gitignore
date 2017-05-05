@@ -1,5 +1,5 @@
-/TrustPilot/bin/
-/TrustPilot/.settings/
+TrustPilot/bin/
+TrustPilot/.settings/
 
 # Windows image file caches
 Thumbs.db
