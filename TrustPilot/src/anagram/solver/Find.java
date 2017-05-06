@@ -14,6 +14,9 @@ public class Find {
 
 	public Find(Dictionary dic, Phrase ph, String md5, int numOfWords) {
 		this.md5 = md5;
+		// only big set of data, so the size represent 
+		// the word with maximum length in dictionary,
+		// otherwise find the max length 
 		int maxWrLen = dic.getSortedLenghtMap().size();
 		int phrLen = ph.getPhraseLenght();
 		Trie dicTrie = new Trie();
