@@ -26,8 +26,6 @@ Advertisement:
 >
 >Type the secret phrase here to see if you found the right one: ______________________
 
->Trustpilot Development Team 
-
 >We imagine that right now, you're feeling a bit like Alice. Hmm? Tumbling down the rabbit hole?
 
 **Please avoid unpleasant situation and do not copy my solution.**
